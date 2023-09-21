@@ -2,4 +2,4 @@
 .snapshots
 .vscode
 app.json
-*.app
+.app
