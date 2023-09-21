@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="RISA Approval Portal">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 1419706934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RISA Approval Portal Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report RISA Approval Portal Link - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2955530446 - Action 242198957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Approval Portal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA Approval Portal - Action Approval Portal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2790614891 - Control 504607266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2181658363">
+          <source>Document Viewer Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA DV Posted Purch. Invoice - Control Document Viewer Documents 4PS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2790614891 - Control 2501796470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2181658363">
+          <source>Document Viewer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA DV Posted Purch. Invoice - Control Document Viewer 4PS - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

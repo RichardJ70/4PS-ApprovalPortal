@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PoC Approval Portal">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1753577624 - Control 504607266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2181658363">
+          <source>Document Viewer Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DV Posted Purch. Invoice BVGO - Control Document Viewer Documents 4PS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1753577624 - Control 2501796470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2181658363">
+          <source>Document Viewer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DV Posted Purch. Invoice BVGO - Control Document Viewer 4PS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1496225946 - Action 3620093177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Approval Portal BVGO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RoleCenterActionsGKP - Action Approval Portal BVGO - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
