@@ -8,10 +8,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report RISA Approval Portal Link - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2955530446 - Action 242198957 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+        <trans-unit id="PageExtension 2955530446 - Action 242198957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
           <source>Open the approval portal with code GKP from the websource table</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA Approval Portal - Action Approval Portal - Property AboutText</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA Approval Portal - Action Approval Portal - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2955530446 - Action 242198957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
           <source>Approval Portal</source>

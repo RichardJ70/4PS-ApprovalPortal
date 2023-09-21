@@ -13,7 +13,7 @@
           <source>Approval Portal</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA Approval Portal - Action Approval Portal - Property Caption</note>
-          <target state="final">Goedkeuriingsportaal</target>
+          <target state="final">Goedkeuringsportaal</target>
         </trans-unit>
         <trans-unit id="PageExtension 2790614891 - Control 504607266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2181658363">
           <source>Document Viewer Documents</source>
@@ -27,11 +27,11 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA DV Posted Purch. Invoice - Control Document Viewer 4PS - Property Caption</note>
           <target state="final">Document weergave</target>
         </trans-unit>
-        <trans-unit id="PageExtension 2955530446 - Action 242198957 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+        <trans-unit id="PageExtension 2955530446 - Action 242198957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494" xmlns="urn:oasis:names:tc:xliff:document:1.2">
           <source>Open the approval portal with code GKP from the websource table</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA Approval Portal - Action Approval Portal - Property AboutText</note>
-          <target state="final">Open het goedkeuringsportaal welke met code GKP is vastgelegd in tabel webbronnen.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RISA Approval Portal - Action Approval Portal - Property ToolTip</note>
+          <target state="final">Open het goedkeuringsportaal met code GKP in tabel webbronnen.</target>
         </trans-unit>
       </group>
     </body>
